@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Version 1.0.0
 # Enable pipefail so we can get the exit status of 'make' even when piping to 'tee'
 set -o pipefail
 
